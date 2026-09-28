@@ -1,0 +1,52 @@
+author_id,author_name,dt_2026,grado_2026,sni_2026,doctorado,anio_doctorado,pais_doctorado,area_1,area_2,cv_available,scholar_available,scholar_citations_total,scholar_citations_since_2021,scholar_h_index,scholar_h_index_since_2021
+AUTH001,Florencia Antía,1,4,1,1,2014,Brasil,Economía Política y Bienestar,Estado y Políticas Públicas,TRUE,TRUE,850,408,13,11
+AUTH002,Nicolás Bentancur,1,5,2,1,2008,Argentina,Estado y Políticas Públicas,,TRUE,TRUE,1106,418,21,12
+AUTH003,Germán Bidegain,1,3,1,1,2015,Chile,Estado y Políticas Públicas,Economía política y bienestar,TRUE,TRUE,822,558,18,15
+AUTH004,Daniel Buquet,1,5,2,1,1998,México,Instituciones políticas y actores,,TRUE,TRUE,2667,765,26,14
+AUTH005,José Busquets,1,4,1,1,2002,Brasil,Estado y Políticas Públicas,,TRUE,TRUE,351,137,11,6
+AUTH006,Gerardo Caetano,1,5,3,1,2008,Argentina,Historia Política,Relaciones internacionales,TRUE,TRUE,6351,2027,40,23
+AUTH007,Antonio Cardarello,1,3,1,1,2009,Brasil,Instituciones políticas y actores,Grupo de Estudios Subnacionales,TRUE,TRUE,623,230,14,7
+AUTH008,Fabricio Carneiro,1,3,1,1,2024,Argentina,Economía Política y Bienestar,,TRUE,TRUE,212,139,9,8
+AUTH009,Daniel Chasquetti,1,5,2,1,2011,Uruguay,Instituciones políticas y actores,,TRUE,TRUE,3043,822,26,14
+AUTH010,Ana Laura de Giorgi,1,2,1,1,2019,Argentina,"Política, género y diversidad",,TRUE,TRUE,265,196,9,8
+AUTH011,Martín Freigedo,1,3,1,1,2015,México,Instituciones políticas y actores,Economía política y bienestar,TRUE,TRUE,375,231,12,8
+AUTH012,Guillermo Fuentes,1,3,1,1,2013,España,Economía Política y Bienestar,,TRUE,TRUE,628,284,13,9
+AUTH013,Adolfo Garcé,1,5,2,1,2012,Uruguay,Instituciones políticas y actores,,TRUE,TRUE,1988,598,25,14
+AUTH014,Julián González Scandizzi,1,3,1,1,2014,Argentina,Teoría Política,,TRUE,TRUE,117,63,6,4
+AUTH015,Niki Johnson,1,4,1,1,1999,Reino Unido,"Política, género y diversidad",,TRUE,TRUE,1044,437,20,11
+AUTH016,Camilo López,1,3,1,1,2015,Uruguay,Relaciones Internacionales,Historia política,TRUE,TRUE,1149,886,18,14
+AUTH017,Carlos Luján,1,4,1,1,2004,Uruguay,Relaciones Internacionales,,TRUE,FALSE,,,,
+AUTH018,Diego Luján,1,3,1,1,2018,Argentina,Instituciones políticas y actores,Metodología de la investigación,TRUE,TRUE,245,183,10,8
+AUTH019,María Ester Mancebo,1,5,2,1,2003,Uruguay,Estado y Políticas Públicas,,TRUE,TRUE,1423,481,21,12
+AUTH020,Carmen Midaglia,1,5,2,1,1998,Brasil,Economía Política y Bienestar,Estado y Políticas Públicas,TRUE,FALSE,,,,
+AUTH021,Felipe Monestier,1,3,1,1,2017,Chile,Instituciones políticas y actores,Historia política,TRUE,TRUE,431,246,12,8
+AUTH022,Juan Andrés Moraes,1,4,1,1,2010,Estados Unidos,Instituciones políticas y actores,,TRUE,TRUE,1276,355,16,9
+AUTH023,Verónica Pérez Bentancur,1,3,1,1,2019,Argentina,Instituciones políticas y actores,"Política, género y diversidad",TRUE,TRUE,648,498,13,12
+AUTH024,Lorena Repetto,1,2,0,0,,Uruguay,Estado y Políticas Públicas,,TRUE,TRUE,435,322,9,8
+AUTH025,José Rilla,1,5,3,1,2007,Argentina,Historia Política,,TRUE,TRUE,2119,555,20,11
+AUTH026,Cecilia Rocha-Carpiuc,1,3,,0,,Argentina,Estado y Políticas Públicas,"Política, género y diversidad",TRUE,TRUE,470,276,11,10
+AUTH027,Nicolás Schmidt,1,3,0,0,,Uruguay,Instituciones políticas y actores,Metodología de la investigación,TRUE,TRUE,324,276,7,6
+AUTH028,Diego Sempol,1,4,2,1,2015,Argentina,Historia Política,"Política, género y diversidad",TRUE,TRUE,967,501,18,13
+AUTH029,Federico Traversa,1,4,1,1,2013,España,Teoría Política,Economía política y bienestar,TRUE,TRUE,263,70,10,4
+AUTH030,Daniela Vairo,1,3,1,1,2015,Brasil,Instituciones políticas y actores,,TRUE,TRUE,497,302,11,8
+AUTH031,Jaime Yaffé,1,5,1,1,2017,Uruguay,Historia Política,Instituciones políticas y actores,TRUE,TRUE,1883,584,21,14
+AUTH032,Cristina Zurbriggen,1,4,4,1,2005,Alemania,Estado y Políticas Públicas,,TRUE,TRUE,,,,
+AUTH033,María José Bolaña,0,2,0,0,,,Historia Política,,FALSE,FALSE,,,,
+AUTH034,Alfonso Castiglia,0,2,,0,,0,Historia Política,Instituciones políticas y actores,FALSE,FALSE,,,,
+AUTH035,Andrea Delbono,0,2,,0,,Uruguay,Economía Política y Bienestar,Teoría Política,TRUE,FALSE,,,,
+AUTH036,Silvana Harriett,0,2,,,,,Historia Política,,FALSE,FALSE,,,,
+AUTH037,Alexandra Lizbona,0,2,0,1,2026,Argentina,Estado y Políticas Públicas,Economía política y bienestar,TRUE,TRUE,131,65,7,5
+AUTH038,Alejandro Milanesi,0,2,1,1,2020,Uruguay,Estado y Políticas Públicas,,TRUE,TRUE,339,273,11,9
+AUTH039,Gustavo Méndez,0,2,0,0,,Uruguay,Estado y Políticas Públicas,,FALSE,FALSE,,,,
+AUTH040,Constanza Moreira,0,5,,1,1997,Brasil,Teoría Política,"Política, género y diversidad",TRUE,FALSE,,,,
+AUTH041,Matías Rodríguez Metral,0,2,,,,,Historia Política,,FALSE,FALSE,,,,
+AUTH042,Rafael Tejera,0,2,,0,,,Estado y Políticas Públicas,,TRUE,FALSE,,,,
+AUTH043,Camila Zeballos,0,2,,0,,Argentina,Teoría Política,Estado y Políticas Públicas,FALSE,FALSE,,,,
+AUTH044,Agustín Canzani,-1,,,0,,España,,,FALSE,FALSE,,,,
+AUTH045,Gustavo De Armas,-1,4,,1,,Uruguay,Economía Política y Bienestar,,FALSE,FALSE,,,,
+AUTH046,Fernando Filgueira,-1,5,2,1,2000,Estados Unidos,Economía Política y Bienestar,,FALSE,FALSE,,,,
+AUTH047,Carmen Haretche,-1,2,,1,2014,Uruguay,Estado y Políticas Públicas,,TRUE,FALSE,,,,
+AUTH048,Gabriel Quirici,-1,,,0,,0,Historia Política,,FALSE,FALSE,,,,
+AUTH049,Dominique Rumeau,-1,,,,,,Historia Política,,FALSE,FALSE,,,,
+AUTH050,Emiliano Clavijo,-1,2,,0,,Uruguay,Estado y Políticas Públicas,,TRUE,FALSE,,,,
+AUTH051,José Raul Rodríguez Pinho,-1,2,,1,2024,Uruguay,Estado y Políticas Públicas,,TRUE,FALSE,,,,

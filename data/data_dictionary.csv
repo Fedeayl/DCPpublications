@@ -1,0 +1,6 @@
+file,unit,primary_key,rows,description
+authors.csv,integrante del plantel,author_id,51,Plantel institucional y atributos a septiembre de 2026.
+articles.csv,artículo único,article_id,866,"Artículos deduplicados, metadatos editoriales e indicadores de indexación."
+author_article.csv,vínculo autor–artículo,author_id + article_id,985,Relación entre integrantes del DCP y artículos; el código calcula el peso fraccional para el universo analítico.
+journals.csv,revista única,journal_id,405,"Revistas deduplicadas, rankings y clasificación disciplinaria."
+publications_academic.csv,producto académico único,work_id,2621,"Artículos, libros, capítulos, documentos de trabajo y actas/eventos; excluye textos de prensa."
